@@ -7,11 +7,11 @@
 ### Project Tasks
 
 •	Test project code using linting </br>
-•	Complete a Dockerfile to containerize this application
-•	Deploy containerized application using Docket and make prediction
-•	Configure a Kubernetes and create Kubernetes cluster
-•	Deploy a container using Kubernetes and make a prediction
-•	Upload the complete Githubrepo with CircleCI to indicate that the code has been tested.
+•	Complete a Dockerfile to containerize this application</br>
+•	Deploy containerized application using Docket and make prediction</br>
+•	Configure a Kubernetes and create Kubernetes cluster</br>
+•	Deploy a container using Kubernetes and make a prediction</br>
+•	Upload the complete Githubrepo with CircleCI to indicate that the code has been tested.</br>
 
 ## Setup the Environment
 
