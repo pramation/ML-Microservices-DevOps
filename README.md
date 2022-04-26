@@ -6,7 +6,7 @@
 
 ### Project Tasks
 
-•	Test project code using linting
+•	Test project code using linting </br>
 •	Complete a Dockerfile to containerize this application
 •	Deploy containerized application using Docket and make prediction
 •	Configure a Kubernetes and create Kubernetes cluster
