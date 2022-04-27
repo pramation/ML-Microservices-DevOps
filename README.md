@@ -1,3 +1,5 @@
+[![CircleCI](https://app.circleci.com/pipelines/github/pramation/project-ml-microservice-kubernetes/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/pramation/project-ml-microservice-kubernetes)
+
 ## Microservices at Scale using AWS & Kubernetes
 
 ## Project Overview
