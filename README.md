@@ -5,6 +5,15 @@
 ## Project Overview
 
   The goal of this project is to deploy a containerized Python flask application that predicts housing prices through API calls. It is done by using pre-trained sklearn(Python package) model that has been trained to predict housing prices in Boston by taking in certain features and parameters.
+  This application helps users to make decisions about the home purchases based on the predictions made by this application. This application can easily be scaled to serve up a large user base.
+  
+## Tech Stack Used
+  - AWS Cloud9 service 
+  - Python Flask 
+  - Docker 
+  - Kubernetes
+  - CircleCI
+  - github
 
 ### Project Tasks
 
@@ -31,5 +40,10 @@
     - Install minikube by following instructions in https://www.devopszones.com/2022/01/how-to-install-minikube-in-amazon-linux.html
     - start the minikube server ( command: minicube start)
 * Create Flask app in Container
+   - Build Dockerfile which is required to build Docker Container.
+   - Execute run_docker.sh to build  the Flask app in Container.
 * Run via kubectl
+   - Exectute run_kube.sh to:
+       a. Run the Flask app docker containers in the Kubernetes pods.
+       b. Forword the container port to the host port , this will enable us to excess the app.
 
