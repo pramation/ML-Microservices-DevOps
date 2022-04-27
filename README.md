@@ -27,9 +27,9 @@
 3. Run in Kubernetes:  `./run_kubernetes.sh`
 
 ### Kubernetes Steps
-
-* Setup and Configure Docker locally
 * Setup and Configure Kubernetes locally
+    - Install minikube by following instructions in https://www.devopszones.com/2022/01/how-to-install-minikube-in-amazon-linux.html
+    - start the minikube server ( command: minicube start)
 * Create Flask app in Container
 * Run via kubectl
 
