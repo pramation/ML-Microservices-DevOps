@@ -1,4 +1,4 @@
-[![CircleCI](https://app.circleci.com/gh/pramation/project-ml-microservice-kubernetes/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/gh/pramation/project-ml-microservice-kubernetes)
+[![CircleCI](https://circleci.com/gh/pramation/project-ml-microservice-kubernetes/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/pramation/project-ml-microservice-kubernetes)
 
 ## Microservices at Scale using AWS & Kubernetes
 
